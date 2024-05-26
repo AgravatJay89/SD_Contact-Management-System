@@ -7,20 +7,20 @@ Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python int
 
 <h2>Installation:-</h2>
 
-Python install:-
+<h3>Python install:-</h3>
 >> On any Code editor = https://www.python.org/
 
-Visual Studio Code:-
+<h3>Visual Studio Code:-</h3>
 https://code.visualstudio.com/
 
-Jupyter:-
+<h3>Jupyter:-</h3>
 https://jupyter.org/
 
-Pip install:-
+<h3>Pip install:-</h3>
 >> pip install pip = https://pypi.org/project/pip/
 
-TKinter install:-
+<h3>TKinter install:-</h3>
 >> pip install tk = https://www.tutorialspoint.com/how-to-install-tkinter-in-python
 
-Login Whatsapp:-
+<h3>Login Whatsapp:-</h3>
 >> With QR Code = https://web.whatsapp.com/
